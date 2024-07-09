@@ -46,3 +46,7 @@ To get a local copy up and running follow these steps:
 - Make sure to set the following environment variables in a .env file:
 
 - DATABASE_URL: PostgreSQL database connection URL.
+
+### Postman Collection Link
+
+- https://www.postman.com/bold-meteor-752910/workspace/pub-wp/collection/15109163-ce566ea3-89ff-479c-a800-9f113ec77ee6?action=share&creator=15109163 
